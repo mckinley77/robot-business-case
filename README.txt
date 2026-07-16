@@ -13,3 +13,11 @@ Version 1.3 changes:
 - Headline result figures reduced slightly.
 - Coloured panels made more compact so their text uses the space better.
 - Page 2 contact details spread into two clear columns.
+
+Beta 0.91 input-screen update
+-----------------------------
+- Pale gold boxes are information the user enters.
+- Pale blue boxes are default assumptions.
+- Default assumptions are grouped in a collapsed section.
+- Opening the section allows every assumption to be amended.
+- Calculation and PDF-report code are unchanged.
